@@ -26,6 +26,11 @@ jobs:
   release:
     name: Setup Upptime
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+      actions: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -51,11 +56,12 @@ jobs:
           command: "readme"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
-      - name: Generate graphs
-        uses: benc-uk/workflow-dispatch@v1
-        with:
-          workflow: Graphs CI
-          token: ${{ secrets.GH_PAT || github.token }}
+      # Generate graphs step removed - Graphs CI will run automatically via schedule
+      # - name: Generate graphs
+      #   uses: benc-uk/workflow-dispatch@v1
+      #   with:
+      #     workflow: Graphs CI
+      #     token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate site
         uses: upptime/uptime-monitor@v1.41.0
         with:
