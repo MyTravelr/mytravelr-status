@@ -6,7 +6,7 @@ assignees:
   
 sites:
   - name: MyTravelr API
-    url: https://mytravelr.cm/api
+    url: https://mytravelr.cm/api/health
   - name: MyTravelr Platform
     url: https://www.mytravelr.cm
   - name: Agency Dashboard
