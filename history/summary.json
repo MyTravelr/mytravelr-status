@@ -1,22 +1,22 @@
 [
   {
     "name": "MyTravelr API",
-    "url": "https://mytravelr.cm/api",
+    "url": "https://mytravelr.cm/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/mytravelr.cm.ico",
     "slug": "my-travelr-api",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "95.25%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "95.25%",
+    "uptimeYear": "95.25%",
     "time": 5731,
     "timeDay": 5731,
     "timeWeek": 5731,
     "timeMonth": 5731,
     "timeYear": 5731,
     "dailyMinutesDown": {
-      "2025-12-20": 2
+      "2025-12-20": 35
     }
   },
   {
@@ -35,24 +35,6 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "SuperAdmin Dashboard",
-    "url": "https://superadmin.mytravelr.cm",
-    "icon": "https://icons.duckduckgo.com/ip3/superadmin.mytravelr.cm.ico",
-    "slug": "super-admin-dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 719,
-    "timeWeek": 719,
-    "timeMonth": 719,
-    "timeYear": 719,
     "dailyMinutesDown": {}
   },
   {
