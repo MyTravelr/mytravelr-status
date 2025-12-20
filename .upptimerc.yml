@@ -1,0 +1,51 @@
+# Change these first
+owner: mytravelr
+repo: mytravelr-status
+
+assignees:
+  - Agirem
+  
+sites:
+  - name: MyTravelr API
+    url: https://mytravelr.cm/api
+  - name: MyTravelr Platform
+    url: https://www.mytravelr.cm
+  - name: SuperAdmin Dashboard
+    url: https://superadmin.mytravelr.cm
+  - name: Agency Dashboard
+    url: https://agency.mytravelr.cm
+  - name: Supervisor Dashboard
+    url: https://supervisor.mytravelr.cm
+  - name: Cashier Dashboard
+    url: https://cashier.mytravelr.cm
+  - name: Developers Portal
+    url: https://developers.mytravelr.cm
+ 
+status-website:
+  favicon: https://www.mytravelr.cm/favicon.ico
+  faviconSvg: https://www.mytravelr.cm/logo.svg
+  cname: status.mytravelr.cm
+  logoUrl: https://www.mytravelr.cm/images/landing/logo.png
+  name: MyTravelr Status
+  introTitle: "**MyTravelr** est la plateforme qui révolutionne la réservation de billets de transport interurbain au Cameroun. Notre plateforme offre une solution complète de gestion des réservations, des paiements et de la logistique pour les agences de transport et leurs clients."
+  introMessage: Nous sommes la plateforme qui engage l'Afrique dans la conversation et l'action pour rendre les transports plus accessibles et abordables à travers le continent.
+
+  navbar:
+    - title: Status
+      href: /
+    - title: MyTravelr Platform
+      href: https://www.mytravelr.cm
+    - title: SuperAdmin
+      href: https://superadmin.mytravelr.cm
+    - title: Agency
+      href: https://agency.mytravelr.cm
+    - title: Supervisor
+      href: https://supervisor.mytravelr.cm
+    - title: Cashier
+      href: https://cashier.mytravelr.cm
+    - title: Developers
+      href: https://developers.mytravelr.cm
+
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+
