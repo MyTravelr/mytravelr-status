@@ -4,19 +4,19 @@
     "url": "https://mytravelr.cm/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/mytravelr.cm.ico",
     "slug": "my-travelr-api",
-    "status": "down",
-    "uptime": "95.25%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "95.25%",
-    "uptimeMonth": "95.25%",
-    "uptimeYear": "95.25%",
-    "time": 5731,
-    "timeDay": 5731,
-    "timeWeek": 5731,
-    "timeMonth": 5731,
-    "timeYear": 5731,
+    "status": "up",
+    "uptime": "94.98%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "94.98%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "94.98%",
+    "time": 3354,
+    "timeDay": 3354,
+    "timeWeek": 3354,
+    "timeMonth": 3354,
+    "timeYear": 3354,
     "dailyMinutesDown": {
-      "2025-12-20": 35
+      "2025-12-20": 39
     }
   },
   {
