@@ -27,19 +27,19 @@
     "url": "https://www.mytravelr.cm",
     "icon": "https://icons.duckduckgo.com/ip3/www.mytravelr.cm.ico",
     "slug": "my-travelr-platform",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1130,
-    "timeDay": 1123,
-    "timeWeek": 1267,
-    "timeMonth": 1130,
-    "timeYear": 1130,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1121,
+    "timeDay": 1055,
+    "timeWeek": 1228,
+    "timeMonth": 1121,
+    "timeYear": 1121,
     "dailyMinutesDown": {
-      "2026-01-07": 19
+      "2026-01-07": 38
     }
   },
   {
