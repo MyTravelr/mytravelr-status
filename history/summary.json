@@ -4,10 +4,10 @@
     "url": "https://mytravelr.cm/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/mytravelr.cm.ico",
     "slug": "my-travelr-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
     "time": 1269,
@@ -16,6 +16,7 @@
     "timeMonth": 1269,
     "timeYear": 1269,
     "dailyMinutesDown": {
+      "2026-01-07": 2,
       "2025-12-25": 16,
       "2025-12-22": 22,
       "2025-12-20": 39
@@ -26,10 +27,10 @@
     "url": "https://www.mytravelr.cm",
     "icon": "https://icons.duckduckgo.com/ip3/www.mytravelr.cm.ico",
     "slug": "my-travelr-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1133,
@@ -37,7 +38,9 @@
     "timeWeek": 1294,
     "timeMonth": 1133,
     "timeYear": 1133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-07": 1
+    }
   },
   {
     "name": "Agency Dashboard",
@@ -80,10 +83,10 @@
     "url": "https://cashier.mytravelr.cm",
     "icon": "https://icons.duckduckgo.com/ip3/cashier.mytravelr.cm.ico",
     "slug": "cashier-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 699,
@@ -91,14 +94,16 @@
     "timeWeek": 765,
     "timeMonth": 699,
     "timeYear": 699,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-07": 1
+    }
   },
   {
     "name": "Developers Portal",
     "url": "https://developers.mytravelr.cm",
     "icon": "https://icons.duckduckgo.com/ip3/developers.mytravelr.cm.ico",
     "slug": "developers-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -109,6 +114,8 @@
     "timeWeek": 724,
     "timeMonth": 674,
     "timeYear": 674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-07": 0
+    }
   }
 ]
