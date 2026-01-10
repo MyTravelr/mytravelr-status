@@ -27,10 +27,10 @@
     "url": "https://www.mytravelr.cm",
     "icon": "https://icons.duckduckgo.com/ip3/www.mytravelr.cm.ico",
     "slug": "my-travelr-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 1081,
@@ -39,6 +39,7 @@
     "timeMonth": 1081,
     "timeYear": 1081,
     "dailyMinutesDown": {
+      "2026-01-10": 1,
       "2026-01-07": 38
     }
   },
