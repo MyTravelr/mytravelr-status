@@ -28,10 +28,10 @@
     "url": "https://www.mytravelr.cm",
     "icon": "https://icons.duckduckgo.com/ip3/www.mytravelr.cm.ico",
     "slug": "my-travelr-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "98.96%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.71%",
     "time": 1062,
@@ -40,6 +40,7 @@
     "timeMonth": 1062,
     "timeYear": 1062,
     "dailyMinutesDown": {
+      "2026-01-14": 1,
       "2026-01-13": 37,
       "2026-01-10": 29,
       "2026-01-07": 38
@@ -68,10 +69,10 @@
     "url": "https://supervisor.mytravelr.cm",
     "icon": "https://icons.duckduckgo.com/ip3/supervisor.mytravelr.cm.ico",
     "slug": "supervisor-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 735,
@@ -79,16 +80,18 @@
     "timeWeek": 687,
     "timeMonth": 735,
     "timeYear": 735,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 1
+    }
   },
   {
     "name": "Cashier Dashboard",
     "url": "https://cashier.mytravelr.cm",
     "icon": "https://icons.duckduckgo.com/ip3/cashier.mytravelr.cm.ico",
     "slug": "cashier-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -98,6 +101,7 @@
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {
+      "2026-01-14": 0,
       "2026-01-07": 18
     }
   },
