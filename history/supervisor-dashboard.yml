@@ -1,7 +1,7 @@
 url: https://supervisor.mytravelr.cm
-status: up
-code: 200
-responseTime: 526
-lastUpdated: 2026-02-17T23:16:55.484Z
+status: down
+code: 403
+responseTime: 306
+lastUpdated: 2026-02-18T08:05:31.303Z
 startTime: 2025-12-20T00:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
